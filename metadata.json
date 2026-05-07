@@ -1,0 +1,6 @@
+{
+  "name": "justiceflow",
+  "description": "A high-trust decision support system for government departments to track court judgments and manage compliance tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Processing", "Document Analysis", "Compliance Tracking"]
+}
